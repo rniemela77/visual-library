@@ -1,0 +1,7 @@
+{
+  "name": "visual-library",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
